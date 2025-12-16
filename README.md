@@ -2,7 +2,7 @@
 A desktop application for managing dental clinic appointments, patients, and treatments. CS50 Final Project.
 # Dental Clinic Management System
 
-#### Video Demo: https:[//youtu.be/PUT-YOUR-LINK-HERE](https://youtu.be/YsE-ZqcldkI?si=ad3Vj4Wk9eTQ2sbn)
+#### Video Demo: https:(https://youtu.be/YsE-ZqcldkI?si=ad3Vj4Wk9eTQ2sbn)
 
 ## Description
 This project is a Dental Clinic Management System developed as the final project for CS50.
